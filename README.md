@@ -18,10 +18,6 @@ This entire UI design has been crafted by me, focusing on creating a visually ap
 
 - Figma
 
-## Demo
-
-You can view the design prototype on Figma [here]([link-to-your-figma-design](https://www.figma.com/proto/hPpdmfu3TtfD4Kf8FD7U97/Coffee-Mobile-App-(Community)?node-id=0-1&t=PBs6QJ8GT1p2EbWQ-1)).
-
 ## Acknowledgments
 
 Thank you for checking out my Coffee Shop UI Design project! I hope you find the design appealing and user-friendly. For any questions or inquiries, please feel free to contact me.
